@@ -1,0 +1,3 @@
+Buenos días profesor, no pude asistir el día sábado por tema laboral y no tenía conocimiento
+de que el trabajo era escrito, me tomé la libertad de buscar ejemplos de algunos patrones de
+diseño, aunque tuve dificultado con el Patrones de Comportamiento
